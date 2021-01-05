@@ -1,0 +1,3 @@
+com\aquiles\jsonconsumer\Application.class
+com\aquiles\jsonconsumer\config\RabbitMQFactory.class
+com\aquiles\jsonconsumer\config\RabbitMQReceiver.class
